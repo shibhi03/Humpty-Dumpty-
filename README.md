@@ -1,8 +1,8 @@
 # Humpty-Dumpty-
 School website / Institution website 
 
-## Tools
-# Front-end:
+# Tools
+## Front-end:
     - HTML, CSS and JavaScript
-# Back-end:
+## Back-end:
     - PHP
